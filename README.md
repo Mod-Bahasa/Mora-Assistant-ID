@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Bahasa__Indonesia-blue?style=for-the-badge)
 ![Device](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
 
-Modifikasi lokalisasi teks dan penerjemahan menyeluruh untuk sistem asisten **Mora** (Red Magic Companion) ke dalam Bahasa Indonesia yang santai, natural, dan pas dengan tata letak UI asli.
+Modifikasi lokalisasi teks dan penerjemahan menyeluruh untuk sistem asisten **Mora** (Red Magic Companion) ke dalam Bahasa Indonesia.
 
 ---
 
